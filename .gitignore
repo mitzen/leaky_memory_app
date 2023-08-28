@@ -1,0 +1,4 @@
+.vs/
+leaky-memory-app/obj/
+leaky-memory-app/bin/
+*.dmp
